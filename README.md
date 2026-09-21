@@ -8,7 +8,7 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
   * [prof. De Russis, course 1 (A-L)](./slides/00-intro-DeRussis.pdf)
   * [prof. Monge Roffarello, course 2 (M-Z)](./slides/00-intro-Monge.pdf)
 * Themes and projects overview
-* What is HCI?
+* [What is HCI?](./slides/01-whatisHCI.pdf)
 * Needfinding
   * Exercise
 * Analyzing and Synthetizing
