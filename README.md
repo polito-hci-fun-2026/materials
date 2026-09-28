@@ -29,7 +29,7 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
 
 
 ## Assignments
-* Assignment 1 - Needfinding
+* Assignment 1 - [Needfinding](./assignments/A1-needfinding.pdf)
 * Assignment 2 - Storyboard and Low-fi Prototypes
 * Assignment 3 - Heuristic evaluation
 * Assignment 4 - Medium to High-fidelity Prototype
