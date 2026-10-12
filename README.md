@@ -11,9 +11,9 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
 * [What is HCI?](./slides/01-whatisHCI.pdf)
 * [Needfinding](./slides/02-needfinding.pdf)
   * [Exercise](./slides/02b-needfinding-exercise.pdf)
-* Themes, Tasks, and Scenarios
-  * Exercise on thematic analysys
-  * Exercise on tasks and storyboards
+* [Themes, Tasks, and Scenarios](./slides/03-themes-tasks-scenarios.pdf)
+  * [Exercise on thematic analysys](./slides/03b-thematic-analysis-exercise.pdf)
+  * [Exercise on tasks and storyboards](./slides/03c-task-storyboard-exercise.pdf)
 * Design Principles
 * Intro to Prototyping and Low-fi Prototypes
   * Exercise on low-fi prototypes
