@@ -14,7 +14,7 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
 * [Themes, Tasks, and Scenarios](./slides/03-themes-tasks-scenarios.pdf)
   * [Exercise on thematic analysys](./slides/03b-thematic-analysis-exercise.pdf)
   * [Exercise on tasks and storyboards](./slides/03c-task-storyboard-exercise.pdf)
-* Design Principles
+* [Design Theories and Principles](./slides/04-design-principles.pdf)
 * Intro to Prototyping and Low-fi Prototypes
   * Exercise on low-fi prototypes
 * Visual Design
