@@ -17,8 +17,8 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
 * [Design Theories and Principles](./slides/04-design-principles.pdf)
 * [Intro to Prototyping and Low-fi Prototypes](./slides/05-low-fi-prototypes.pdf)
   * [Exercise on low-fi prototypes](./slides/05b-low-fi-prototypes-exercise.pdf)
-* Visual Design
-* Evaluation Overview and Heuristic Evaluation
+* [Visual Design](./slides/06-visual-design.pdf)
+* [Evaluation Overview and Heuristic Evaluation](./slides/07-heuristic-evaluation.pdf)
   * Exercise on heuristic evaluation
 * Design Guidelines and Patterns
 * Medium Fidelity Prototypes
