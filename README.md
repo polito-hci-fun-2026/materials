@@ -21,9 +21,8 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
 * [Evaluation Overview and Heuristic Evaluation](./slides/07-heuristic-evaluation.pdf)
   * [Exercise on heuristic evaluation](./slides/07b-heuristic-evaluation-exercise.pdf)
 * [Design Guidelines and Patterns](./slides/08-design-guidelines-patterns.pdf)
-* Medium Fidelity Prototypes
-* Interacting with AI
-* High Fidelity Prototypes
+* [Medium Fidelity Prototypes](./slides/09-mid-fi-prototypes.pdf)
+* [High Fidelity Prototypes](./slides/10-hi-fi-prototypes.pdf)
 * Usability Testing
   * Exercises
 
