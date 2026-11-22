@@ -23,7 +23,7 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
 * [Design Guidelines and Patterns](./slides/08-design-guidelines-patterns.pdf)
 * [Medium Fidelity Prototypes](./slides/09-mid-fi-prototypes.pdf)
 * [High Fidelity Prototypes](./slides/10-hi-fi-prototypes.pdf)
-* Usability Testing
+* [Usability Testing](./slides/11-usability-testing.pdf)
   * Exercises
 
 
@@ -31,7 +31,7 @@ Material for the _[HCI Fundamentals](https://github.com/polito-hci-fun-2026)_ co
 * Assignment 1 - [Needfinding](./assignments/A1-needfinding.pdf)
 * Assignment 2 - [Storyboard and Low-fi Prototypes](./assignments/A2-storyboard-paper-prototypes.pdf)
 * Assignment 3 - [Heuristic evaluation](./assignments/A3-heuristic-evaluation.pdf)
-* Assignment 4 - Medium to High-fidelity Prototype
-* Assignment 5 - High-fidelity Prototype
+* Assignment 4 - [Medium to High-fidelity Prototype](./assignments/A4-mid-to-hi-fidelity.pdf)
+* Assignment 5 - [High-fidelity Prototype](./assignments/A5-high-fidelity-prototype.pdf)
 
-Instructions and template for the final report
+[Instructions and guidelines](./assignments/final-report-instructions.pdf) for the final report
